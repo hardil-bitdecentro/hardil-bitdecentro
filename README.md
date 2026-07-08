@@ -38,6 +38,8 @@ I build production crypto infrastructure end to end — **MPC custodial wallets,
 
 Single audited choke-point for money · append-only, hash-chained & signed ledgers · httpOnly cookie sessions + CSRF + TOTP 2FA · durable queues so nothing drops under load · cross-cloud secret management (AWS + GCP) · AI-augmented workflow (Claude / agentic) shipping **~50% faster**.
 
-### 📌 Previously
+### 📌 Previously — Antier Solutions
 
-Built **TOMI Wallet** — a decentralized mobile wallet with encrypted P2P chat, **70K+ downloads** ([Google Play](https://play.google.com/store/apps/details?id=com.tomiapp.production)) — plus DeFi dApps and browser extensions at Antier Solutions.
+- **TOMI Wallet** — decentralized mobile wallet with encrypted P2P chat · **70K+ downloads** ([Google Play](https://play.google.com/store/apps/details?id=com.tomiapp.production))
+- **Doma** ([doma.io](https://doma.io)) — deputed on-site to Abu Dhabi (mTransform) to build a retail platform for **on-chain purchasing of physical gold & silver** (RWA)
+- DeFi dApps — DEX, DAO & staking platforms — and browser extensions; drove team-wide TypeScript + NestJS adoption; 30+ technical interviews conducted.
