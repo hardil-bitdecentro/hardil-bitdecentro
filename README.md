@@ -75,6 +75,8 @@ Single audited choke-point for money · append-only, hash-chained & signed ledge
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardil-bitdecentro&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Followers](https://img.shields.io/github/followers/hardil-bitdecentro?label=Followers&style=social)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhardil-bitdecentro&label=Public%20Repos&query=%24.public_repos&color=blue)
+![Portfolio](https://img.shields.io/badge/Portfolio-7%20live%20products-1631e6)
 
 </div>
